@@ -1,0 +1,9 @@
+## Visual Studio / Build artifacts
+bin/
+obj/
+.vs/
+*.user
+
+## Configuration files containing real local credentials
+appsettings.local.json
+appsettings.Development.json
